@@ -1,8 +1,8 @@
 {
     "songs" : [
-      {"name" : "Song 1", "year" : 2018,"img":"https://e7.pngegg.com/pngimages/484/128/png-clipart-albums-book-graphy-wedding-album-templates-album-photomontage.png","genre":"General"},
-      {"name" : "Song 2", "year" : 2020,"img":"https://e7.pngegg.com/pngimages/484/128/png-clipart-albums-book-graphy-wedding-album-templates-album-photomontage.png","genre":"General"},
-      {"name" : "Song 3", "year" : 2021,"img":"https://img.pngio.com/albums-book-album-transparent-background-png-clipart-hiclipart-photo-album-png-800_565.jpg","genre":"General"},
+      {"name" : "Song A", "year" : 2018,"img":"https://www.thenewsminute.com/sites/default/files/Pandarathi%20Puranam_Title%20change_250321_1200_Twitter.jpg","genre":"General"},
+      {"name" : "Song B", "year" : 2020,"img":"https://crossbridgeccorg.s3.amazonaws.com/wp-content/uploads/2019/07/08164809/Sing-a-New-Song-907x680.jpg","genre":"General"},
+      {"name" : "Song 3", "year" : 2021,"img":"https://media.pitchfork.com/photos/6092f590c297789a98963bf5/2:1/w_3810,h_1905,c_limit/Coldplay.jpg","genre":"General"},
       {"name" : "Good morning", "year" : 1990,"img":"https://i.ytimg.com/vi/Xb29Js0wehg/maxresdefault.jpg","genre":"Sherman"}
     ]
   }
