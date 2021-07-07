@@ -1,0 +1,8 @@
+{
+    "songs" : [
+      {"name" : "Song 1", "year" : 2018,"img":"https://e7.pngegg.com/pngimages/484/128/png-clipart-albums-book-graphy-wedding-album-templates-album-photomontage.png","genre":"General"},
+      {"name" : "Song 2", "year" : 2020,"img":"https://e7.pngegg.com/pngimages/484/128/png-clipart-albums-book-graphy-wedding-album-templates-album-photomontage.png","genre":"General"},
+      {"name" : "Song 3", "year" : 2021,"img":"https://img.pngio.com/albums-book-album-transparent-background-png-clipart-hiclipart-photo-album-png-800_565.jpg","genre":"General"},
+      {"name" : "Good morning", "year" : 1990,"img":"https://i.ytimg.com/vi/Xb29Js0wehg/maxresdefault.jpg","genre":"Sherman"}
+    ]
+  }
